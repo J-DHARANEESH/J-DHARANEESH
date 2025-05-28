@@ -7,7 +7,7 @@
 - 💻 Passionate about building intelligent, full-stack systems powered by AI and clean design.
 - 🌍 Based in Coimbatore, Tamil Nadu, India.
 - 😄 Pronouns: He/Him
-- 🔭 Currently working on: AI-enhanced productivity tools, EdTech platforms, and full-stack applications.
+- 🔭 Currently working on: AI-enhanced productivity tools, Tech platforms, and full-stack applications.
 - 💬 Ask me about: Angular, Spring Boot, Python, AI, and Data-Driven Systems.
 - ⚡ Fun fact: I love solving real-world problems by merging intelligence and aesthetics!
 - 🌐 Check my Portfolio: _Coming Soon_
