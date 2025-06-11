@@ -10,7 +10,7 @@
 - 🔭 Currently working on: AI-enhanced productivity tools, Tech platforms, and full-stack applications.
 - 💬 Ask me about: Angular, Spring Boot, Python, AI, and Data-Driven Systems.
 - ⚡ Fun fact: I love solving real-world problems by merging intelligence and aesthetics!
-- 🌐 Check my [Portfolio](https://dharaneesh120923.netlify.app/)
+- 🌐 Do Check Out My [Portfolio](https://dharaneesh120923.netlify.app/)
 - 📞 How to reach me: [📧 Email me](mailto:contact.j.dharaneesh12@gmail.com)
 
 ---
